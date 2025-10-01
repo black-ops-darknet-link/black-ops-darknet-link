@@ -20,4 +20,6 @@ Safeguard your identity and assets by using the verified Black Ops darknet link 
 
 Avoid untrusted sources or unsolicited links, which commonly lead to phishing scams and impersonation sites designed to steal cryptocurrency or personal data.
 
-Update:  18.09.2025 Fixed broken url, now accessible and working
+
+
+Update:  01 October
